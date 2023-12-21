@@ -71,5 +71,5 @@ Character Escapes in Regex, allow you to match specific characters that have mea
 Cody Thompson
 Github: https://github.com/codyleight
 Repo for Regex in Javascript: https://github.com/codyleight/JSRegex
-Gist Link: https://gist.github.com/codyleight/2fa6af1382d0d62133f200589eeb3fdb
+Gist Link: https://gist.github.com/codyleight/e0cb9a2bc420c3b2c45d30a2f090ba03
 
